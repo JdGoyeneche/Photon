@@ -1,0 +1,395 @@
+fileFormatVersion: 2
+guid: 126a7d7cde436b2438cbb39130af2fb0
+ModelImporter:
+  serializedVersion: 24200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CubeMap_LampA_lef
+    second: {fileID: 2100000, guid: c18cd20497ea5e34faed377f08255f10, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CubeMap_outside_lef
+    second: {fileID: 2100000, guid: d63008e01c9687d42a86860762837490, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dkj_StartLine2
+    second: {fileID: 2100000, guid: 6efcec0e48cc15d4eb5fd3141d13cb75, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GlidePanel_PanelFlame
+    second: {fileID: 2100000, guid: dd3c1d4363d8183489c26ccb20f8a234, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: YVArrow
+    second: {fileID: 2100000, guid: e902b82af0144c84a950a30ce0296359, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: YVCmnStartGridwaood
+    second: {fileID: 2100000, guid: c8f107cc25c71354c917f0596797e543, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: YVStartGrit
+    second: {fileID: 2100000, guid: 862d2b1236e033045b49f6cf6736bd5f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: YV_grass
+    second: {fileID: 2100000, guid: a22255d816d10bf46b69ebda0c08b66c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: YV_grass.003
+    second: {fileID: 2100000, guid: 88d290ede1c7f7d46bfa2db24fa14d54, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: YV_grass_enkei
+    second: {fileID: 2100000, guid: c63530a5a84c5224797804607cf22a6b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: YV_grass_enkei.003
+    second: {fileID: 2100000, guid: 9b03a95544d97944487e87f3405cfe45, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: YV_grass_nuki
+    second: {fileID: 2100000, guid: 3821df5bd19de584988a819f5e5c5311, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: YV_grass_nuki.003
+    second: {fileID: 2100000, guid: 775158e71fbbeb84a82782ebdcbcf563, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: YV_grass_nuki_enkei
+    second: {fileID: 2100000, guid: bc646eaa861c76d49862410badb44db5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: YV_kanbanC
+    second: {fileID: 2100000, guid: 2377c734e5459cc47a2cb40a1f55138b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: YVeggkusa
+    second: {fileID: 2100000, guid: 922b46d461589894b8c79f1461f3e447, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: YVeggs
+    second: {fileID: 2100000, guid: a475eb79cfbf91140b56b9d8c7c777c5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: YVflag
+    second: {fileID: 2100000, guid: 163dcad9a963c28419525b5fd9a76e9f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: YVflag.002
+    second: {fileID: 2100000, guid: a6a1e084b844a7a45a11c8f921f7bcff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: YVflowers
+    second: {fileID: 2100000, guid: 02185794cc4765845a7da887980e17e7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: YVisi
+    second: {fileID: 2100000, guid: d6f09c7c6009d134c94996b1ca5e9e24, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: YVjump
+    second: {fileID: 2100000, guid: 646dab5e015fd5e488f7fcc2214319de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: YVjump.002
+    second: {fileID: 2100000, guid: 72466606e12f64f408fc4a9e7f7df179, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: YVkiwaunion
+    second: {fileID: 2100000, guid: 80e7ebb2de676ca4cbf83a5afd35941e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: YVkiwaunion.002
+    second: {fileID: 2100000, guid: 028d35a9a9a7b094b9b61df621dfbf80, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: YVkusa
+    second: {fileID: 2100000, guid: e3c4e3c47e2dff34a82abcb23c5a5ba7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: YVroadB
+    second: {fileID: 2100000, guid: 12022e331c68b3649ad915928f6d2fbb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: YVroadD
+    second: {fileID: 2100000, guid: ed713374f95f6994b95a077c8283122c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: YVroadD.002
+    second: {fileID: 2100000, guid: 39b05d6e49587ae428065736d68bfd8d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: YVroadE
+    second: {fileID: 2100000, guid: bacf0570d9e5b6648af07377a3910069, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: YVroadEt
+    second: {fileID: 2100000, guid: 4b7f560e4faa16e4c9aeecaf018f3995, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: YVroadEt.002
+    second: {fileID: 2100000, guid: 42eb6d04d396d354da25c92b1fd719b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: YVroadEt.004
+    second: {fileID: 2100000, guid: 324254b0ffed3a543b1f99aeb22e863f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: YVroadegg
+    second: {fileID: 2100000, guid: d74b2d57f51b45f4fad068094aad0dfc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: YVrock
+    second: {fileID: 2100000, guid: 3096530afd9848e4e8d1b7e42f0bbc64, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: YVrock.002
+    second: {fileID: 2100000, guid: a77aac5f421cd3d4bb5e4aaffda78771, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: YVrockT
+    second: {fileID: 2100000, guid: b26178402777e0a46999bc6f0f12e8ac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: YVrockenkei
+    second: {fileID: 2100000, guid: c85d09fa9de24684583ed732fc870542, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: YVrockenkei.002
+    second: {fileID: 2100000, guid: e9dfdceb0bd7b7643a83a4822689738a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: YVsaku
+    second: {fileID: 2100000, guid: 60352139ce926df438badbbc01487123, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: YVsaku.002
+    second: {fileID: 2100000, guid: 67ba8dc547ee1094a968d115c941f75e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: YVunionA
+    second: {fileID: 2100000, guid: b258c1d8f7a5c3244a84b6edf93d5d8d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: YVunionAT
+    second: {fileID: 2100000, guid: 9e989302ed2b8ff438d538516cffa1bb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: YVurokoA
+    second: {fileID: 2100000, guid: f6893847f6970734a90d0659b42b8275, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: YVwood
+    second: {fileID: 2100000, guid: 5c9928bccd4eee44791bb92f953ff2dc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: YVwoodB
+    second: {fileID: 2100000, guid: fd194cb83a044ba488a7d3f340a41d05, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: YVwoodC
+    second: {fileID: 2100000, guid: afefa71f1c6426b46bdfce1f44594b1f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: YVwoodD
+    second: {fileID: 2100000, guid: d50e40bc58342ef4484e7da336e3059b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: YVwoodJ
+    second: {fileID: 2100000, guid: 6957a1f9cbb389648ab588b4e1ebef2d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ef_glideboard
+    second: {fileID: 2100000, guid: 407db588f6327cd46a33222f43f0cddc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ef_sea
+    second: {fileID: 2100000, guid: e7dc81928e8d407428530948fc311d02, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ef_sea.002
+    second: {fileID: 2100000, guid: 73c5e4267278f014fbad48fb9d048cfa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ef_sea.004
+    second: {fileID: 2100000, guid: 27a52c91fde5e34429a1c011de7192cc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ef_waterfall
+    second: {fileID: 2100000, guid: 23a598eb048fd4849b4ab104d8c02603, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: m_CrashBox
+    second: {fileID: 2100000, guid: adfff20a87e405343b139e47aa6ca29d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: plantA
+    second: {fileID: 2100000, guid: 8e1e920e7613e5446ae4b78a406882e0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: plantA.002
+    second: {fileID: 2100000, guid: 0eb41ce0d2e9bff4897cebc55f0ae30c, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    generateMeshLods: 0
+    meshLodGenerationFlags: 0
+    maximumMeshLod: -1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
